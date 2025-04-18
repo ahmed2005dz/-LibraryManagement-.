@@ -34,7 +34,10 @@ A simple Java console application to manage books and borrowers using Object-Ori
 
 1. Compile all files:
    ```bash
-   javac *.javaAuthor | المطور
+   javac *.java
+
+
+   Author | المطور
 
  Ahmed (ahmed2005dz)
 
