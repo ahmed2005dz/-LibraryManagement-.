@@ -1,18 +1,41 @@
-# -LibraryManagement-.
-# نظام إدارة المكتبة (Library Management System)
+# Library Management System | نظام إدارة المكتبة
 
-## الوصف
-نظام مكتبة بسيط يسمح للمستخدمين باستعارة وإرجاع الكتب، مع دعم للكتب الإلكترونية.
+A simple Java console application to manage books and borrowers using Object-Oriented Programming principles.
 
-## الميزات
-- عرض الكتب المتاحة
-- استعارة وإرجاع الكتب
-- تتبع الكتب المستعارة
+تطبيق بسيط بلغة Java لإدارة الكتب والمستعيرين باستخدام مبادئ البرمجة الكائنية.
 
-## طريقة الاستخدام
-1. تشغيل `LibraryApp.java`
-2. اختيار العمليات المطلوبة عبر القائمة التفاعلية
+---
 
-## إعداد GitHub
-- استخدام Git لإدارة الإصدارات
-- رفع المشروع إلى GitHub
+## Features | الميزات
+
+- Add physical and electronic books  
+  إضافة كتب ورقية وإلكترونية  
+- Borrow and return books  
+  استعارة الكتب وإرجاعها  
+- Track available and borrowed books  
+  تتبع حالة الكتب (متاحة / مستعارة)  
+- Console-based user interface  
+  واجهة تفاعلية عبر سطر الأوامر  
+- Clean OOP design (Encapsulation, Inheritance, Polymorphism)  
+  تصميم كائني نظيف (تغليف، وراثة، تعدد الأشكال)
+
+---
+
+## Classes Used | الأصناف المستعملة
+
+- `Book.java` – Base class  
+- `EBook.java` – Inherits from `Book`  
+- `Borrower.java` – Manages borrowing/returning  
+- `LibraryApp.java` – Main program (entry point)
+
+---
+
+## How to Run | طريقة التشغيل
+
+1. Compile all files:
+   ```bash
+   javac *.javaAuthor | المطور
+
+ Ahmed (ahmed2005dz)
+
+2nd Year Computer Science Student – جامعة
