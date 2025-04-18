@@ -39,6 +39,6 @@ A simple Java console application to manage books and borrowers using Object-Ori
 
    Author | المطور
 
- Ahmed (ahmed2005dz)
+Geudoura Ahmed (ahmed2005dz)
 
 2nd Year Computer Science Student – جامعة
